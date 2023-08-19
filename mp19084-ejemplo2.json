@@ -1,0 +1,16 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@moneda":"El dolar estadounidense",
+		"@exttelefonico":"503",
+		"@idiomaoficial":"Español",
+		"extension":"525000km2",
+		"departamento":{
+			"@id":"1",
+			"@nombre":"San Salvador",
+			"cabecera":"San Salvador",
+			"habitantes":"1,700,000",
+			"altura":"545 MSNM"
+		}
+	}
+}

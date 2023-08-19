@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type= "text/css" href="mp19084-ejemplo2b.css"?>
+<!-- ejemplo2.xml  mp19084-->
+<pais nombre="El Salvador" moneda="El dolar estadounidense" exttelefonico="503" idiomaoficial="Español">
+<extension>525000km2</extension>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="San miguel">
+<cabecera>San miguel</cabecera>
+<habitantes>3</habitantes>
+<altura>30 MSNM</altura>
+</departamento>
+</pais>

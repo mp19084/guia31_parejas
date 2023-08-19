@@ -1,0 +1,21 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"12/11/2015",
+				"nombre":"Lenny Aristides",
+				"apellido":"Membreño Preza",
+				"direccion":"San Salvador, La cima",
+				"telefono":"25252525",
+				"email":"mp19084@ues.edu.sv",
+				"url":"mp19084.tpi.com"
+			}
+		]}
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type= "text/css" href="mp19084-ejemplo1a.css"?>
+<!-- ejemplo1.xml  MP19084 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+
+<ficha id="2" fechaingreso="12/11/2015">
+<nombre>Lenny Aristides</nombre>
+<apellido>Membreño Preza</apellido>
+<direccion>San Salvador, La cima</direccion>
+<telefono>25252525</telefono>
+<email>mp19084@ues.edu.sv</email>
+<url>mp19084.tpi.com</url>
+</ficha>
+</fichero> 
